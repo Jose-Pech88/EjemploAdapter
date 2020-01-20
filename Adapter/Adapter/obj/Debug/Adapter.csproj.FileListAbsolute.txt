@@ -1,0 +1,12 @@
+C:\Users\jose.pech\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\jose.pech\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\jose.pech\source\repos\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\jose.pech\source\repos\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\jose.pech\source\repos\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\jose.pech\source\repos\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploAdapter\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\jose.pech\Documents\GitHub\EjemploAdapter\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploAdapter\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\jose.pech\Documents\GitHub\EjemploAdapter\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\jose.pech\Documents\GitHub\EjemploAdapter\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\jose.pech\Documents\GitHub\EjemploAdapter\Adapter\Adapter\obj\Debug\Adapter.pdb
